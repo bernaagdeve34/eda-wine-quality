@@ -39,12 +39,3 @@ Depoyu klonla:
 git clone https://github.com/kullanici-adi/eda-wine-quality.git
 cd eda-wine-quality
 
-
-Gerekli kütüphaneleri yükle:
-
-pip install -r requirements.txt
-
-
-Notebook’u çalıştır:
-
-jupyter notebook eda-exercies.ipynb
